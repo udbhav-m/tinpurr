@@ -1,2 +1,4 @@
-# tinpurr
-Tinder for cats made with bootstrap.
+# Tinpurr
+Tinder for cats.
+A responsive website made with bootstrap.
+Will add functionality soon.
